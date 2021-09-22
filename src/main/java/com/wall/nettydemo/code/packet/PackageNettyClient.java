@@ -33,6 +33,7 @@ public class PackageNettyClient {
             e.printStackTrace();
         }finally {
             eventLoopGroup.shutdownGracefully();
+
         }
     }
 }
