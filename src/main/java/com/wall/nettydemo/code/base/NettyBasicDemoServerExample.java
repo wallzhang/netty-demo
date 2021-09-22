@@ -1,4 +1,4 @@
-package com.wall.nettydemo.code;
+package com.wall.nettydemo.code.base;
 
 
 import io.netty.bootstrap.ServerBootstrap;
